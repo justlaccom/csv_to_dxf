@@ -1,13 +1,8 @@
-# Générateur DXF
+# CSV to DXF
 
 Application Python pour générer des fichiers DXF à partir de données CSV avec détection automatique des colonnes via IA.
 
 ## 🚀 Installation
-
-### Prérequis
-
-- Python 3.8 ou supérieur
-- Windows 10/11
 
 ### Installer Ollama (requis pour la détection IA)
 
