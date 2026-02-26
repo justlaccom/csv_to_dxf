@@ -1,5 +1,0 @@
-requests
-ezdxf
-pyfiglet
-colorama
-keyboard
