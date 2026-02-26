@@ -1,6 +1,6 @@
 # CSV to DXF
 
-Application Python pour générer des fichiers DXF à partir de données CSV avec détection automatique des colonnes via IA.
+<img width="551" height="214" alt="image" src="https://github.com/user-attachments/assets/9f1a9cf6-5c17-47f6-9479-96e03b29cabf" />
 
 ## 🚀 Installation
 
