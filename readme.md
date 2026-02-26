@@ -1,6 +1,6 @@
 # CSV to DXF
 
-Application Python pour générer des fichiers DXF à partir de données CSV avec détection automatique des colonnes via IA.
+<img width="551" height="214" alt="image" src="https://github.com/user-attachments/assets/9f1a9cf6-5c17-47f6-9479-96e03b29cabf" />
 
 ## 🚀 Installation
 
@@ -18,12 +18,8 @@ Ouvrez **PowerShell** ou **Invite de commandes** et exécutez :
 ollama pull llama3.2:1b
 ```
 
-### Installer ce répertoire
+### Installer ce répertoire github
 
-Téléchargez le répertoire `Discord-Nitro-Checker-main` et décompressez-le.
-
-## 📋 Utilisation
-
-Lancez le fichier `GenerateurDXF.exe` (le démarrage est long, patientez).
+Sur la page gihtub vous verrez un bouton "Code" en vert cliquez dessus et et faites download zip. Une fois téléchargé, décompressez le fichier et lancer directement le fichier `GenerateurDXF.exe`.
 
 **(ATTENTION : L'ai intégré qui décide les colonnes peut se tromper, il faut donc vérifier que les colonnes sont bien choisies)**
